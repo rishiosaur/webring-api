@@ -8,5 +8,12 @@
 			"source": "/previous",
 			"destination": "/api/previous"
 		}
+	],
+	"redirects": [
+
+		{
+			"source": "/",
+			"destination": "https://webring.hackclub.com"
+		}
 	]
 }
