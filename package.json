@@ -1,0 +1,16 @@
+{
+  "name": "webring-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rishiosaur/webring-api.git",
+  "author": "Rishi Kothari <itsrishikothari@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^1.8.4",
+    "node-fetch": "^2.6.1",
+    "vercel": "^20.1.2"
+  },
+  "scripts": {
+    "start": "vc dev"
+  }
+}
